@@ -1,0 +1,18 @@
+{
+  "name": "error-monitoring-js",
+  "version": "0.0.1",
+  "description": "error monitoring for js applications.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "error",
+    "monitor",
+    "monitoring",
+    "error-monitor",
+    "error-monitoring"
+  ],
+  "author": "rezak <rezak9876.official@gmail.com>",
+  "license": "ISC"
+}
